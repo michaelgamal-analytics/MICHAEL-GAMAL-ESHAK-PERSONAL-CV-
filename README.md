@@ -1,4 +1,4 @@
-<!-- 💀 GOD LEVEL README -->
+<!-- 💀 GOD LEVEL FINAL README -->
 
 <div align="center">
 
@@ -8,25 +8,21 @@
 
 ---
 
-<!-- ⚡ GLITCH TEXT -->
-
 <h1 align="center">
 ⚡ I DON'T ANALYZE DATA — I REVEAL POWER ⚡
 </h1>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?size=32&duration=1500&color=00F7FF&center=true&vCenter=true&width=1000&lines=Data+Analyst+🔥;Power+BI+Specialist;SQL+%7C+Excel;Turning+Data+Into+Money;Finding+What+Others+Miss+⚡"/>
+<img src="https://readme-typing-svg.herokuapp.com?size=32&duration=1500&color=00F7FF&center=true&vCenter=true&width=1000&lines=Data+Analyst+🔥;Power+BI+Specialist;SQL+%7C+Excel;Turning+Data+Into+Decisions;Finding+Hidden+Insights+⚡"/>
 
 </div>
 
 ---
 
-<!-- 💣 ELITE BUTTON BAR -->
-
 <div align="center">
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/michaelgamalyass">
 <img src="https://img.shields.io/badge/LINKEDIN-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 
@@ -34,23 +30,21 @@
 <img src="https://img.shields.io/badge/GITHUB-FF00FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:your@email.com">
+<a href="mailto:michaelgamalyas@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-ff004c?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/michaelgamal-analytics/REPO_NAME/raw/main/Michael_Gamal_CV.pdf">
-<img src="https://img.shields.io/badge/GET%20CV-00ffcc?style=for-the-badge&logo=adobeacrobatreader&logoColor=black"/>
+<a href="https://bio.site/MichaelGamalYass">
+<img src="https://img.shields.io/badge/PORTFOLIO-LIVE-8A2BE2?style=for-the-badge"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/PORTFOLIO-LIVE-8A2BE2?style=for-the-badge"/>
+<a href="https://github.com/michaelgamal-analytics/MICHAEL-GAMAL-ESHAK-PERSONAL-CV-/raw/main/Michael_Gamal_CV.pdf">
+<img src="https://img.shields.io/badge/GET%20CV-00ffcc?style=for-the-badge&logo=adobeacrobatreader&logoColor=black"/>
 </a>
 
 </div>
 
 ---
-
-<!-- ⚡ NEON LINE -->
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:FF00FF&height=6"/>
@@ -58,21 +52,17 @@
 
 ---
 
-<!-- 🧠 POWER STATEMENT -->
-
 <h2 align="center">💀 DATA IS JUST NOISE... UNTIL I TOUCH IT</h2>
 
 <p align="center">
 
-I transform raw data into <b style="color:#00F7FF;">business weapons</b> 🚀
-I uncover <b style="color:#FF00FF;">hidden revenue opportunities</b> 💰
+I transform raw data into <b style="color:#00F7FF;">business insights</b> 🚀
+I uncover <b style="color:#FF00FF;">hidden growth opportunities</b> 💰
 I build dashboards that <b style="color:#00ffcc;">drive real decisions</b> ⚡
 
 </p>
 
 ---
-
-<!-- 🔥 LIVE EFFECT (ILLUSION) -->
 
 <div align="center">
 
@@ -83,8 +73,6 @@ I build dashboards that <b style="color:#00ffcc;">drive real decisions</b> ⚡
 </div>
 
 ---
-
-<!-- 🛠️ TECH STACK -->
 
 <h2 align="center">⚡ TECH ARSENAL</h2>
 
@@ -100,53 +88,43 @@ I build dashboards that <b style="color:#00ffcc;">drive real decisions</b> ⚡
 
 ---
 
-<!-- 🚀 PROJECT (WITH GIF) -->
-
-<h2 align="center">🔥 PROJECT SHOWCASE</h2>
+<h2 align="center">🔥 FEATURED PROJECTS</h2>
 
 <div align="center">
 
-<b style="font-size:22px;">Nespresso Sales Intelligence</b>
-
-<br>
-
-<span style="color:#00F7FF;">📊 KPI Dashboard</span> | <span style="color:#FF00FF;">📈 Growth Analysis</span> | <span style="color:#00ffcc;">🌍 Regional Insights</span>
+<b>Nespresso Sales Dashboard</b><br> <a href="https://github.com/michaelgamal-analytics/Nespresso-Sales-Dashboard"> <img src="https://img.shields.io/badge/View%20Project-00F7FF?style=for-the-badge"/> </a>
 
 <br><br>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZ1bXo1b2Z3Y2R4Y2p0eG1tY3R4Z3V2c3RzY2RzM3B4d3l6b3Y0bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7TKtnuHOHHUjR38Y/giphy.gif" width="900"/>
+<b>Retail Sales Performance</b><br> <a href="https://github.com/michaelgamal-analytics/Retail-Sales-Performance-Analysis-Power-BI-Dashboard"> <img src="https://img.shields.io/badge/View%20Project-FF00FF?style=for-the-badge"/> </a>
 
 <br><br>
 
-<a href="#">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-FF00FF?style=for-the-badge"/>
-</a>
+<b>HR Analytics Dashboard</b><br> <a href="https://github.com/michaelgamal-analytics/HR-Analytics-PowerBI-Dashboard"> <img src="https://img.shields.io/badge/View%20Project-00ffcc?style=for-the-badge"/> </a>
+
+<br><br>
+
+<b>Employee Attrition Analysis</b><br> <a href="https://github.com/michaelgamal-analytics/Employee-attrition-hr-analytics-powerbi-dashboard"> <img src="https://img.shields.io/badge/View%20Project-8A2BE2?style=for-the-badge"/> </a>
 
 </div>
 
 ---
 
-<!-- 📄 CV -->
-
 <h2 align="center">📄 RESUME</h2>
 
 <p align="center">
-<a href="https://github.com/michaelgamal-analytics/REPO_NAME/raw/main/Michael_Gamal_CV.pdf">
+<a href="https://github.com/michaelgamal-analytics/MICHAEL-GAMAL-ESHAK-PERSONAL-CV-/raw/main/Michael_Gamal_CV.pdf">
 <img src="https://img.shields.io/badge/DOWNLOAD%20NOW-00F7FF?style=for-the-badge"/>
 </a>
 </p>
 
 ---
 
-<!-- 🐍 SNAKE -->
-
 <p align="center">
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
-
-<!-- 💣 FINAL IMPACT -->
 
 <h2 align="center" style="color:#FF00FF;">
 ⚡ I TURN DATA INTO COMPETITIVE ADVANTAGE ⚡
