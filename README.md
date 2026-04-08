@@ -1,95 +1,92 @@
-<!-- 🔥 ULTRA ELITE README (NEON + GLASS + MOTION) -->
+<!-- 💀 GOD LEVEL README -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,30:090979,60:00d4ff,100:ff00ff&height=260&section=header&text=MICHAEL%20GAMAL&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0f2027,50:00F7FF,75:FF00FF,100:000000&height=280&section=header&text=MICHAEL%20GAMAL&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 </div>
 
 ---
 
-<!-- 🔥 GLITCH STYLE TITLE -->
+<!-- ⚡ GLITCH TEXT -->
 
 <h1 align="center">
-⚡ DATA IS POWER — I MAKE IT USEFUL ⚡
+⚡ I DON'T ANALYZE DATA — I REVEAL POWER ⚡
 </h1>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?size=30&duration=1800&color=00F7FF&center=true&vCenter=true&width=900&lines=Data+Analyst+%F0%9F%93%8A;Power+BI+Expert;SQL+%7C+Excel;Turning+Data+Into+Revenue;Finding+Hidden+Insights+🔥"/>
+<img src="https://readme-typing-svg.herokuapp.com?size=32&duration=1500&color=00F7FF&center=true&vCenter=true&width=1000&lines=Data+Analyst+🔥;Power+BI+Specialist;SQL+%7C+Excel;Turning+Data+Into+Money;Finding+What+Others+Miss+⚡"/>
 
 </div>
 
 ---
 
-<!-- 💎 NEON BUTTONS -->
+<!-- 💣 ELITE BUTTON BAR -->
 
 <div align="center">
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+<img src="https://img.shields.io/badge/LINKEDIN-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 
 <a href="https://github.com/michaelgamal-analytics">
-<img src="https://img.shields.io/badge/GitHub-FF00FF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-FF00FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:your@email.com">
-<img src="https://img.shields.io/badge/Email-ff004c?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-ff004c?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/michaelgamal-analytics/REPO_NAME/raw/main/Michael_Gamal_CV.pdf">
-<img src="https://img.shields.io/badge/Download%20CV-00ffcc?style=for-the-badge&logo=adobeacrobatreader&logoColor=black"/>
+<img src="https://img.shields.io/badge/GET%20CV-00ffcc?style=for-the-badge&logo=adobeacrobatreader&logoColor=black"/>
 </a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/Portfolio-Live-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-LIVE-8A2BE2?style=for-the-badge"/>
 </a>
 
 </div>
 
 ---
 
-<!-- ⚡ GLOW DIVIDER -->
+<!-- ⚡ NEON LINE -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:FF00FF&height=5"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:FF00FF&height=6"/>
 </p>
 
 ---
 
-<!-- 💣 HOOK SECTION -->
+<!-- 🧠 POWER STATEMENT -->
 
-<h2 align="center">🚀 I Don't Just Analyze Data</h2>
+<h2 align="center">💀 DATA IS JUST NOISE... UNTIL I TOUCH IT</h2>
 
 <p align="center">
 
-I uncover <b style="color:#00F7FF;">hidden opportunities</b>,
-optimize <b style="color:#FF00FF;">business performance</b>,
-and turn raw numbers into <b style="color:#00ffcc;">clear strategic decisions</b>.
+I transform raw data into <b style="color:#00F7FF;">business weapons</b> 🚀
+I uncover <b style="color:#FF00FF;">hidden revenue opportunities</b> 💰
+I build dashboards that <b style="color:#00ffcc;">drive real decisions</b> ⚡
 
 </p>
 
 ---
 
-<!-- 🔥 DIFFERENCE -->
+<!-- 🔥 LIVE EFFECT (ILLUSION) -->
 
-<h2 align="center">💎 Why I'm Different</h2>
+<div align="center">
 
-<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=michaelgamal-analytics&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F7FF&icon_color=FF00FF"/>
 
-⚡ KPI-Focused Thinking <br>
-⚡ Business Impact Mindset <br>
-⚡ Storytelling with Data <br>
-⚡ Clean + Insightful Dashboards
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=michaelgamal-analytics&theme=tokyonight&hide_border=true&ring=00F7FF&fire=FF00FF"/>
 
-</p>
+</div>
 
 ---
 
 <!-- 🛠️ TECH STACK -->
 
-<h2 align="center">🛠️ Tech Arsenal</h2>
+<h2 align="center">⚡ TECH ARSENAL</h2>
 
 <div align="center">
 
@@ -103,26 +100,26 @@ and turn raw numbers into <b style="color:#00ffcc;">clear strategic decisions</b
 
 ---
 
-<!-- 🚀 PROJECT SHOWCASE -->
+<!-- 🚀 PROJECT (WITH GIF) -->
 
-<h2 align="center">🔥 Featured Project</h2>
+<h2 align="center">🔥 PROJECT SHOWCASE</h2>
 
 <div align="center">
 
-<b style="font-size:20px;">Nespresso Sales Analysis</b>
+<b style="font-size:22px;">Nespresso Sales Intelligence</b>
 
 <br>
 
-<span style="color:#00F7FF;">📊 Full Dashboard</span> | <span style="color:#FF00FF;">📈 Growth Tracking</span> | <span style="color:#00ffcc;">🌍 Regional Insights</span>
+<span style="color:#00F7FF;">📊 KPI Dashboard</span> | <span style="color:#FF00FF;">📈 Growth Analysis</span> | <span style="color:#00ffcc;">🌍 Regional Insights</span>
 
 <br><br>
 
-<img src="https://via.placeholder.com/950x420.png?text=🔥+Your+Dashboard+Preview+🔥" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZ1bXo1b2Z3Y2R4Y2p0eG1tY3R4Z3V2c3RzY2RzM3B4d3l6b3Y0bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7TKtnuHOHHUjR38Y/giphy.gif" width="900"/>
 
 <br><br>
 
 <a href="#">
-<img src="https://img.shields.io/badge/View%20Project-FF00FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-FF00FF?style=for-the-badge"/>
 </a>
 
 </div>
@@ -131,11 +128,11 @@ and turn raw numbers into <b style="color:#00ffcc;">clear strategic decisions</b
 
 <!-- 📄 CV -->
 
-<h2 align="center">📄 Resume</h2>
+<h2 align="center">📄 RESUME</h2>
 
 <p align="center">
 <a href="https://github.com/michaelgamal-analytics/REPO_NAME/raw/main/Michael_Gamal_CV.pdf">
-<img src="https://img.shields.io/badge/Download%20Now-00F7FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DOWNLOAD%20NOW-00F7FF?style=for-the-badge"/>
 </a>
 </p>
 
@@ -149,10 +146,10 @@ and turn raw numbers into <b style="color:#00ffcc;">clear strategic decisions</b
 
 ---
 
-<!-- 💀 FINAL LINE -->
+<!-- 💣 FINAL IMPACT -->
 
-<h3 align="center" style="color:#FF00FF;">
-⚡ Data Doesn't Speak... I Make It Loud ⚡
-</h3>
+<h2 align="center" style="color:#FF00FF;">
+⚡ I TURN DATA INTO COMPETITIVE ADVANTAGE ⚡
+</h2>
 
 ---
