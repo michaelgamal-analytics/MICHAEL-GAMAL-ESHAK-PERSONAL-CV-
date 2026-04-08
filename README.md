@@ -1,133 +1,95 @@
-<!-- 💀 GOD LEVEL FINAL README -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0f2027,50:00F7FF,75:FF00FF,100:000000&height=280&section=header&text=MICHAEL%20GAMAL&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Michael%20Gamal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Power%20BI%20%C2%B7%20SQL%20%C2%B7%20Excel&descSize=18&descAlignY=60&descColor=a0c4ff"/>
 
 </div>
-
----
-
-<h1 align="center">
-⚡ I DON'T ANALYZE DATA — I REVEAL POWER ⚡
-</h1>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?size=32&duration=1500&color=00F7FF&center=true&vCenter=true&width=1000&lines=Data+Analyst+🔥;Power+BI+Specialist;SQL+%7C+Excel;Turning+Data+Into+Decisions;Finding+Hidden+Insights+⚡"/>
-
-</div>
-
----
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/michaelgamalyass">
-<img src="https://img.shields.io/badge/LINKEDIN-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<a href="https://github.com/michaelgamal-analytics">
-<img src="https://img.shields.io/badge/GITHUB-FF00FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 <a href="mailto:michaelgamalyas@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-ff004c?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://bio.site/MichaelGamalYass">
-<img src="https://img.shields.io/badge/PORTFOLIO-LIVE-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
 </a>
-
 <a href="https://github.com/michaelgamal-analytics/MICHAEL-GAMAL-ESHAK-PERSONAL-CV-/raw/main/Michael_Gamal_CV.pdf">
-<img src="https://img.shields.io/badge/GET%20CV-00ffcc?style=for-the-badge&logo=adobeacrobatreader&logoColor=black"/>
+<img src="https://img.shields.io/badge/Download%20CV-00897B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:FF00FF&height=6"/>
-</p>
+## About me
+
+Data analyst with a background in pharmacy retail, focused on turning business data into clear, actionable insights. I specialize in building dashboards and reports that help teams make faster, better decisions.
+
+- Currently working in Al-Mahalla Al-Kubra, Egypt
+- IBM Data Analytics Professional Certificate
+- Focused on: sales analysis, HR analytics, and operational reporting
 
 ---
 
-<h2 align="center">💀 DATA IS JUST NOISE... UNTIL I TOUCH IT</h2>
+## Skills
 
-<p align="center">
-
-I transform raw data into <b style="color:#00F7FF;">business insights</b> 🚀
-I uncover <b style="color:#FF00FF;">hidden growth opportunities</b> 💰
-I build dashboards that <b style="color:#00ffcc;">drive real decisions</b> ⚡
-
-</p>
+| Tool | Usage |
+|------|-------|
+| **Power BI** | Interactive dashboards, DAX, data modeling |
+| **SQL** | Data querying and transformation |
+| **Excel** | Analysis, pivot tables, reporting |
+| **Python** | Basic data manipulation |
 
 ---
+
+## Featured projects
+
+### 📊 Nespresso Sales Dashboard
+> Sales performance analysis with monthly trends and product-level breakdown
+
+**Tools:** Power BI · Excel  
+[![View Project](https://img.shields.io/badge/View%20Project-0077B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/michaelgamal-analytics/Nespresso-Sales-Dashboard)
+
+---
+
+### 🛒 Retail Sales Performance Analysis
+> End-to-end retail dashboard tracking KPIs across categories and time periods
+
+**Tools:** Power BI · SQL  
+[![View Project](https://img.shields.io/badge/View%20Project-0077B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/michaelgamal-analytics/Retail-Sales-Performance-Analysis-Power-BI-Dashboard)
+
+---
+
+### 👥 HR Analytics Dashboard
+> Workforce analytics covering headcount, turnover, and department performance
+
+**Tools:** Power BI  
+[![View Project](https://img.shields.io/badge/View%20Project-0077B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/michaelgamal-analytics/HR-Analytics-PowerBI-Dashboard)
+
+---
+
+### 📉 Employee Attrition Analysis
+> Identifying attrition drivers and risk factors using HR data
+
+**Tools:** Power BI · Excel  
+[![View Project](https://img.shields.io/badge/View%20Project-0077B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/michaelgamal-analytics/Employee-attrition-hr-analytics-powerbi-dashboard)
+
+---
+
+## GitHub stats
 
 <div align="center">
 
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=michaelgamal-analytics&theme=tokyonight&hide_border=true&ring=00F7FF&fire=FF00FF"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=michaelgamal-analytics&theme=default&hide_border=true"/>
 
 </div>
 
 ---
 
-<h2 align="center">⚡ TECH ARSENAL</h2>
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql" /><br><br>
-
-<img src="https://img.shields.io/badge/PowerBI-ffcc00?style=for-the-badge&logo=Power-BI&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-00ff88?style=for-the-badge&logo=microsoft-excel&logoColor=black"/>
-<img src="https://img.shields.io/badge/Data%20Analytics-00F7FF?style=for-the-badge"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=120&section=footer"/>
 
 </div>
-
----
-
-<h2 align="center">🔥 FEATURED PROJECTS</h2>
-
-<div align="center">
-
-<b>Nespresso Sales Dashboard</b><br> <a href="https://github.com/michaelgamal-analytics/Nespresso-Sales-Dashboard"> <img src="https://img.shields.io/badge/View%20Project-00F7FF?style=for-the-badge"/> </a>
-
-<br><br>
-
-<b>Retail Sales Performance</b><br> <a href="https://github.com/michaelgamal-analytics/Retail-Sales-Performance-Analysis-Power-BI-Dashboard"> <img src="https://img.shields.io/badge/View%20Project-FF00FF?style=for-the-badge"/> </a>
-
-<br><br>
-
-<b>HR Analytics Dashboard</b><br> <a href="https://github.com/michaelgamal-analytics/HR-Analytics-PowerBI-Dashboard"> <img src="https://img.shields.io/badge/View%20Project-00ffcc?style=for-the-badge"/> </a>
-
-<br><br>
-
-<b>Employee Attrition Analysis</b><br> <a href="https://github.com/michaelgamal-analytics/Employee-attrition-hr-analytics-powerbi-dashboard"> <img src="https://img.shields.io/badge/View%20Project-8A2BE2?style=for-the-badge"/> </a>
-
-</div>
-
----
-
-<h2 align="center">📄 RESUME</h2>
-
-<p align="center">
-<a href="https://github.com/michaelgamal-analytics/MICHAEL-GAMAL-ESHAK-PERSONAL-CV-/raw/main/Michael_Gamal_CV.pdf">
-<img src="https://img.shields.io/badge/DOWNLOAD%20NOW-00F7FF?style=for-the-badge"/>
-</a>
-</p>
-
----
-
-<p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-<h2 align="center" style="color:#FF00FF;">
-⚡ I TURN DATA INTO COMPETITIVE ADVANTAGE ⚡
-</h2>
-
----
